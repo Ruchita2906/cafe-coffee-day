@@ -91,7 +91,7 @@ const Footer = () => {
                 Address
               </h1>
               <div>
-                <p className="mb-3">JM Road,Pune</p>
+                <p className="mb-3">JM Road, Pune</p>
                 <p>+91 9373557423</p>
 
                 {/* Social links */}
